@@ -1,0 +1,15 @@
+.btn-white{
+	background-color: white;
+	padding: 15px 20px;
+	border-radius: 50px;
+	color: #43291f;
+	font-weight: bold;
+	text-decoration: none;
+	font-family: 'Merriweather', sans-serif;
+}
+
+.btn-white:hover {
+	background-color:#43291f ;
+	color: white;
+	transition: color 0.4s ease;
+}
